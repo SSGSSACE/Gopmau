@@ -1,0 +1,16 @@
+E:\C#\Gopmau\bin\Debug\net5.0\Gopmau.exe
+E:\C#\Gopmau\bin\Debug\net5.0\Gopmau.deps.json
+E:\C#\Gopmau\bin\Debug\net5.0\Gopmau.runtimeconfig.json
+E:\C#\Gopmau\bin\Debug\net5.0\Gopmau.runtimeconfig.dev.json
+E:\C#\Gopmau\bin\Debug\net5.0\Gopmau.dll
+E:\C#\Gopmau\bin\Debug\net5.0\ref\Gopmau.dll
+E:\C#\Gopmau\bin\Debug\net5.0\Gopmau.pdb
+E:\C#\Gopmau\obj\Debug\net5.0\Gopmau.csproj.AssemblyReference.cache
+E:\C#\Gopmau\obj\Debug\net5.0\Gopmau.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Gopmau\obj\Debug\net5.0\Gopmau.AssemblyInfoInputs.cache
+E:\C#\Gopmau\obj\Debug\net5.0\Gopmau.AssemblyInfo.cs
+E:\C#\Gopmau\obj\Debug\net5.0\Gopmau.csproj.CoreCompileInputs.cache
+E:\C#\Gopmau\obj\Debug\net5.0\Gopmau.dll
+E:\C#\Gopmau\obj\Debug\net5.0\ref\Gopmau.dll
+E:\C#\Gopmau\obj\Debug\net5.0\Gopmau.pdb
+E:\C#\Gopmau\obj\Debug\net5.0\Gopmau.genruntimeconfig.cache
