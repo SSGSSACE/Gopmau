@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "4vC6k+Zy+MtqJzo2GyLhKlffHeX+aHRYm9GYUa/x27T7JEyylmsOCedsR78uvuoTDfqRx2sflFGyS2bh3ng/lg==",
-  "success": true,
-  "projectFilePath": "E:\\C#\\Gopmau\\Gopmau.csproj",
+  "dgSpecHash": "G2Xy54Y2zGmwE7S1RJxQmAZgJqvB8EVL1myYVqrT8+mLvBn6Vx/CZr+h7SNVp6bYZF4XEgNGL1xa1zU+WMU8Cg==",
+  "success": false,
+  "projectFilePath": "e:\\C#\\Gopmau\\Gopmau.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'System.Text.Encoding.CodePages (>= 5.0.0)' for 'net5.0'.",
+      "libraryId": "System.Text.Encoding.CodePages",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

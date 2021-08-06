@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\Gopmau\\Gopmau.csproj": {}
+    "e:\\C#\\Gopmau\\Gopmau.csproj": {}
   },
   "projects": {
-    "E:\\C#\\Gopmau\\Gopmau.csproj": {
+    "e:\\C#\\Gopmau\\Gopmau.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\Gopmau\\Gopmau.csproj",
+        "projectUniqueName": "e:\\C#\\Gopmau\\Gopmau.csproj",
         "projectName": "Gopmau",
-        "projectPath": "E:\\C#\\Gopmau\\Gopmau.csproj",
+        "projectPath": "e:\\C#\\Gopmau\\Gopmau.csproj",
         "packagesPath": "C:\\Users\\quang\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\Gopmau\\obj\\",
+        "outputPath": "e:\\C#\\Gopmau\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\quang\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -34,6 +34,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

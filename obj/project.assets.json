@@ -5,7 +5,9 @@
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "System.Text.Encoding.CodePages >= 5.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\quang\\.nuget\\packages\\": {}
@@ -13,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Gopmau\\Gopmau.csproj",
+      "projectUniqueName": "e:\\C#\\Gopmau\\Gopmau.csproj",
       "projectName": "Gopmau",
-      "projectPath": "E:\\C#\\Gopmau\\Gopmau.csproj",
+      "projectPath": "e:\\C#\\Gopmau\\Gopmau.csproj",
       "packagesPath": "C:\\Users\\quang\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Gopmau\\obj\\",
+      "outputPath": "e:\\C#\\Gopmau\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\quang\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -40,6 +42,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "System.Text.Encoding.CodePages": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -58,5 +66,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'System.Text.Encoding.CodePages (>= 5.0.0)' for 'net5.0'.",
+      "libraryId": "System.Text.Encoding.CodePages",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
