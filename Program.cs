@@ -44,7 +44,7 @@ namespace ConsoleApp
             var table = ConvertCSVtoDataTable("Exam2.csv");
 
             //get value of special column
-            string[] columnName = { "Fail_Stage", "Location"};
+            string[] columnName = { "Fail_Stage", "Location","1Test_Condition_ST1_Status"};
 
             for (int i = table.Columns.Count - 1; i >= 0; i--)
             {
