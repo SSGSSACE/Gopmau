@@ -1,18 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "G2Xy54Y2zGmwE7S1RJxQmAZgJqvB8EVL1myYVqrT8+mLvBn6Vx/CZr+h7SNVp6bYZF4XEgNGL1xa1zU+WMU8Cg==",
-  "success": false,
-  "projectFilePath": "e:\\C#\\Gopmau\\Gopmau.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1100",
-      "level": "Error",
-      "message": "Unable to resolve 'System.Text.Encoding.CodePages (>= 5.0.0)' for 'net5.0'.",
-      "libraryId": "System.Text.Encoding.CodePages",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  "dgSpecHash": "jZ/3VjLoxTZUyTAYy9DoIb5V7lNcW0nAgHSHpb+xpZZPLgBx8KwwPZgq3kif2EBwgX0tktLxuANdGEQdodDbew==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\Gopmau\\Gopmau.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quang\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\quang\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
 }
